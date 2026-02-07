@@ -1,10 +1,10 @@
 # Buffr Privacy Policy
 
-**Last Updated:** January 27, 2026
+**Last Updated:** February 7, 2026
 
 ## Overview
 
-Buffr ("the App") is designed with privacy as a core principle. Your data is stored on your device and synced to your personal iCloud account — never to our servers. We don't have accounts, we don't track you, and we don't sell data.
+Buffr ("the App") is designed with privacy as a core principle. Your data is stored locally on your device — never on our servers. We don't have accounts, we don't track you, and we don't sell data.
 
 This Privacy Policy explains what information the App collects, how it's used, and your choices.
 
@@ -18,35 +18,52 @@ This Privacy Policy explains what information the App collects, how it's used, a
 
 ## Information Stored On Your Device
 
-All of the following data is stored locally on your device and synced to your personal iCloud account. This data is never transmitted to us or any third party:
+All of the following data is stored locally on your device. This data is never transmitted to us or any third party:
 
 - **Your RTO policy configuration** — Company name (if you choose to enter it), minimum days required, rolling window period, and your default weekly schedule.
 - **Your day logs** — Records of your daily status (Office, WFH, Vacation, Sick, Holiday).
 - **Your planned days** — Any future days you've scheduled in the calendar.
 - **Your preferences** — App settings such as calculation adjustments and display options.
 
-## iCloud Sync
+## Local Storage Only
 
-If you are signed into iCloud on your device, Buffr uses Apple's iCloud service to sync your data across your devices. This data is stored in your personal iCloud account, encrypted by Apple, and is not accessible to us. You can manage or disable iCloud sync through your device's Settings.
+Buffr stores all data locally on your device. Your data is not synced to iCloud or any cloud service. If you delete the app, your data is permanently deleted from your device.
+
+## Optional Feedback
+
+If you choose to submit feedback through the "Share Feedback" button in Settings:
+
+- You will be directed to a Google Form (a third-party service operated by Google)
+- Any information you provide in the form is collected by Google Forms
+- We receive your feedback responses at our email (kruppesoftware@gmail.com)
+- Feedback submission is entirely voluntary and optional
+- We do not automatically collect any device information — only what you choose to type
+
+Google's privacy practices apply to the feedback form. See [Google's Privacy Policy](https://policies.google.com/privacy) for details.
 
 ## Third-Party Services
 
-Buffr does not use any third-party analytics, advertising, or tracking services.
+Buffr uses the following third-party services:
 
-The App may connect to Apple's services for:
-- **App Store** — For app updates
-- **iCloud** — For syncing your data across your devices
+- **Apple App Store** — For app distribution and updates
+- **Google Forms** — For optional user feedback (only if you choose to submit)
+
+We do not use any third-party analytics, advertising, or tracking services.
 
 ## Data Security
 
-Your data is protected by Apple's on-device encryption and iCloud encryption. We recommend:
+Your data is protected by Apple's on-device encryption. We recommend:
+
 - Using a passcode or Face ID/Touch ID on your device
 - Keeping your iOS version up to date
 - Enabling device encryption (on by default in iOS)
 
 ## Data Retention and Deletion
 
-Your data remains on your device and in your iCloud account until you delete it. You can delete all Buffr data at any time by deleting the App from your device.
+Your data remains on your device until you delete it. You can delete all Buffr data by:
+
+- Using the "Clear All Data" option in Settings, or
+- Deleting the App from your device
 
 We have no data to delete on our end because we never receive it.
 
@@ -71,11 +88,12 @@ If you have questions about this Privacy Policy, contact us at:
 | Question | Answer |
 |----------|--------|
 | Do you collect my personal data? | No |
-| Is my attendance data sent to your servers? | No — it stays on your device and your iCloud |
+| Is my attendance data sent to your servers? | No — it stays on your device only |
 | Do you track how I use the app? | No |
 | Do you show ads or share data with advertisers? | No |
-| Can I delete my data? | Yes — by deleting the App |
+| Can I delete my data? | Yes — in Settings or by deleting the App |
 | Do I need an account? | No |
+| What about the feedback form? | Optional — uses Google Forms if you choose to submit |
 
 ---
 
